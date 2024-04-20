@@ -1,0 +1,24 @@
+﻿  main.c
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(34,7): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 2
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(34,7): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 3
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(34,7): warning C4244: 'function': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(34,7): warning C4133: 'function': incompatible types - from 'SIZE_T *' to 'PULONG'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(40,7): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 2
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(40,7): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 3
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(40,7): warning C4244: 'function': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(40,7): warning C4133: 'function': incompatible types - from 'SIZE_T *' to 'PULONG'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(45,7): warning C4047: 'function': 'PVOID *' differs in levels of indirection from 'ULONG_PTR *'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(45,7): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 2
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(69,8): warning C4047: 'function': 'PVOID *' differs in levels of indirection from 'ULONG_PTR *'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(69,8): warning C4022: 'g_NtApi': pointer mismatch for actual parameter 2
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(62,12): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(168,7): warning C4133: 'function': incompatible types - from 'SIZE_T *' to 'PULONG'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(246,63): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'PVOID'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(246,43): warning C4024: 'FindMemoryHole': different types for formal and actual parameter 3
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(252,61): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'unsigned char [63]'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(252,46): warning C4024: 'WritePayloadBuffer': different types for formal and actual parameter 3
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(252,95): warning C4047: 'function': 'ULONG_PTR' differs in levels of indirection from 'unsigned char [106]'
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(252,88): warning C4024: 'WritePayloadBuffer': different types for formal and actual parameter 5
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(261,65): warning C4022: 'PatchAndInstallTrampoline': pointer mismatch for actual parameter 3
+C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\ThreadlessInjection\main.c(215,13): warning C4047: 'initializing': 'ULONG_PTR' differs in levels of indirection from 'void *'
+  ThreadlessInjection.vcxproj -> C:\Users\dawid\Downloads\ThreadlessInjection\ThreadlessInjection\x64\Debug\ThreadlessInjection.exe
